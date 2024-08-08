@@ -1,0 +1,9 @@
+1. Tambahkan halaman prediksi :
+    - ketika button predict dipencet, muncul tabel hasil prediksi dalam beberapa hari kedepan (Clear)
+
+2. halaman prediksi harga saham :
+    - hapus hasil prediksi harga, tampilkan evaluasi epoch dan akurasi saja (Clear)
+
+3. symbol saham dibuat option 20 saham, dan tetap bisa di ketik (Clear)
+4. Perbaiki hasil prediksi dengan harga pasar > 1000
+5. Laporan (III->IV) -> Batasan masalah fokus di saham BBRI.JK
